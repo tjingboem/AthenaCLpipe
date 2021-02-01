@@ -9,4 +9,4 @@ athenaPipe.py can be found in the examples folder of Blue.
 
 AthenaCL can be installed as a side package of python2, or you can leave it in your home directory.
 
-athenaPipe.py is Copyright 2000-2020 Steven Yi. All Rights Reserved.
+athenaPipe.py is Copyright 2000-2020 Steven Yi. With permission from Steven Yi 2-1-2021
