@@ -5,5 +5,6 @@ It uses python 2, and if your machine is still capable to install and run this p
 back into Blue to: 
 python2 athenaPipe.py $infile
 where athenaPipe.py is installed in AthenaCL.
+athenaPipe.py can be found in the examples folder of Blue.
 
 AthenaCL can be installed as a side package of python2, or you can leave it in your home directory.
