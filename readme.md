@@ -2,7 +2,7 @@ AthenaCL Score generator for Csound (Christopher Ariza, license: GPL)
 
 AthenaCL latest versiuon of AthenaCL can be found here: https://code.google.com/archive/p/athenacl/downloads but the ones i have here are the same.
 
-It uses python 2, and if your machine is still capable to install this old python version and run it, you still have to change the command in the Blue External Object in order to get the generated score data back into Blue. 
+It uses python 2, and if your machine is still capable to install this old python version and run it, you still have to chance the command in the Blue External Object in order to get the generated score data back into Blue. 
 
 New command:
 python2 athenaPipe.py $infile
