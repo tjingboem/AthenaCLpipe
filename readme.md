@@ -4,9 +4,9 @@ AthenaCL latest versiuon of AthenaCL for python 2 can be found here: https://cod
 
 There is a new version of AthenaCL that is python 3 ready. It is available from Ales Tsurko: https://github.com/ales-tsurko/athenaCL
 
-The athenaPipe.py from Steven Yi is designed to work from within Blue: 
+The athenaPipe.py from Steven Yi is designed to work from within Blue: https://blue.kunstmusik.com/
 
-Command in the Blue's External SoundObject is: https://blue.kunstmusik.com/
+Command in the Blue's External SoundObject is: 
 python athenaPipe.py $infile
 where athenaPipe.py should be present in the AthenaCL folder.
 
