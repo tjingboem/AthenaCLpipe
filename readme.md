@@ -1,14 +1,14 @@
-AthenaCL Score generator for Csound (Christopher Ariza, license: GPL)
+AthenaCL Score generator for Csound (Christopher Ariza, license: GPL v2)
 
-AthenaCL latest versiuon of AthenaCL can be found here: https://code.google.com/archive/p/athenacl/downloads but the ones i have here are the same.
+AthenaCL latest versiuon of AthenaCL for python 2 can be found here: https://code.google.com/archive/p/athenacl/downloads but the ones i have here are the same.
 
-It uses python 2, and if your machine is still capable to install this old python version and run it, you still have to change the command in the Blue External Object in order to get the generated score data back into Blue. 
+There is a new version of AthenaCL that is python 3 ready. It is available from Ales Tsurko: https://github.com/ales-tsurko/athenaCL
 
-New command:
-python2 athenaPipe.py $infile
-where athenaPipe.py is installed in the AthenaCL folder.
+The athenaPipe.py from Steven Yi is designed to work from within Blue: 
+
+Command in the Blue's External SoundObject is: https://blue.kunstmusik.com/
+python athenaPipe.py $infile
+where athenaPipe.py should be present in the AthenaCL folder.
+
 athenaPipe.py itself can also be found in the examples folder of Blue.
-
-AthenaCL can be installed as a side package of python2, or you can leave it in your home directory and run it from there. In that case, be sure to set the correct PATH.
-
 athenaPipe.py is copyright Steven Yi, copied here with permission from Steven Yi february 1st 2021.
