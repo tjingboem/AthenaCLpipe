@@ -12,3 +12,7 @@ where athenaPipe.py should be present in the AthenaCL folder.
 
 athenaPipe.py itself can also be found in the examples folder of Blue.
 athenaPipe.py is copyright Steven Yi, copied here with permission from Steven Yi february 1st 2021.
+
+The AthenaCL Score Generator (ObjectBuilder Object) can be downloaded from BlueShare:
+![AthenaCL](https://user-images.githubusercontent.com/6670911/114233861-3fc90600-997e-11eb-9e19-f20795f5f59d.png)
+
